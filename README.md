@@ -16,5 +16,5 @@ Signlingo uses Deep Learning to translate pictures of ASL into English, which we
 We hope to add more ASL phrases and potentially create a sustainable web server with features that will implement leaderboard and achievement features to encourage users to use our translator more, and a dashboard that will allow users to review past translations. We also hope to make translation performance faster and smoother!
 
 
-*Signlingo by team SG (Grace Harinto and Snehal Adbol) *
+*Signlingo by team SG (Grace Harianto and Snehal Adbol) *
 > “Signlingo” in hopes of normalizing the usage of sign language
